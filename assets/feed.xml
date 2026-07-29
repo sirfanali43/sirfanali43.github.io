@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Soomro (S.) Irfan Ali — Recent Writing</title>
+    <link>https://sirfanali43.github.io/</link>
+    <description>Notes on public-sector accounting, financial reporting and career notes.</description>
+    <language>en-us</language>
+    <item>
+      <title>Five reporting habits that save a public office at audit time</title>
+      <link>https://sirfanali43.github.io/post.html?slug=five-reporting-habits-audit</link>
+      <pubDate>Thu, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Simple, repeatable habits that make audits less painful for small public offices.</description>
+    </item>
+    <item>
+      <title>What a tribunal accountant's monthly close actually looks like</title>
+      <link>https://sirfanali43.github.io/post.html?slug=tribunal-monthly-close</link>
+      <pubDate>Tue, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <description>A step-by-step walk through the monthly close for a tribunal office.</description>
+    </item>
+    <item>
+      <title>Starting an accounting career outside the big cities</title>
+      <link>https://sirfanali43.github.io/post.html?slug=starting-accounting-career</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <description>Practical advice for building a finance career from smaller cities like Larkana.</description>
+    </item>
+  </channel>
+</rss>

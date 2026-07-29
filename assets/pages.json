@@ -2,6 +2,6 @@
   {
     "slug": "about",
     "title": "About",
-    "content": "<p>Expanded about page content can go here. You can fetch this via JavaScript and render it inside a simple page template.</p>"
+    "content_md": "I hold a Master's degree in Commerce and currently work as an Accountant at the Anti-Encroachment Tribunal in Larkana. This site collects practical notes on public-sector accounting and career reflections."
   }
 ]

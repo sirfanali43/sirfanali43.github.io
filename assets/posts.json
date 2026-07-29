@@ -4,20 +4,20 @@
     "slug": "five-reporting-habits-audit",
     "date": "JUL 2026",
     "excerpt": "Simple, repeatable habits that make audits less painful for small public offices.",
-    "content": "<p>This is a stub of the article. Replace the content field with full HTML content or provide a separate path.</p>"
+    "content_md": "### Why habits matter\n\nSmall public offices often fail audits not because of fraud but because of missing paperwork and inconsistent processes. Here are five reporting habits that help:\n\n- Keep a single "closing" folder\n- Reconcile petty cash weekly\n- Tag documents with receipt dates\n\n**Consistency** beats last-minute heroics."
   },
   {
     "title": "What a tribunal accountant's monthly close actually looks like",
     "slug": "tribunal-monthly-close",
     "date": "JUN 2026",
     "excerpt": "A step-by-step walk through the monthly close for a tribunal office.",
-    "content": "<p>Stub content for the monthly close article.</p>"
+    "content_md": "# Monthly close checklist\n\nThis is a short checklist you can adapt: \n\n1. Post all receipts\n2. Reconcile bank\n3. Prepare trial balance\n\nVisit the office manual for templates."
   },
   {
     "title": "Starting an accounting career outside the big cities",
     "slug": "starting-accounting-career",
     "date": "MAY 2026",
     "excerpt": "Practical advice for building a finance career from smaller cities like Larkana.",
-    "content": "<p>Stub content for career notes.</p>"
+    "content_md": "Working from smaller cities has its own advantages. Focus on *competence*, *networking*, and *visibility*."
   }
 ]

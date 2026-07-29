@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Pages — Soomro (S.) Irfan Ali</title>
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <header class="site" role="banner">
+    <div class="wrap">
+      <div class="brand">Accountant <span>Irfan Ali</span></div>
+      <nav aria-label="Primary">
+        <ul>
+          <li><a href="/">Home</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap" id="page-root">
+    <!-- page content injected by assets/main.js -->
+  </main>
+
+  <footer class="wrap">© 2026 Soomro (S.) Irfan Ali</footer>
+
+  <script src="/assets/main.js" defer></script>
+  <script>
+  (function(){
+    const params = new URLSearchParams(location.search);
+    const slug = params.get('slug');
+    const root = document.getElementById('page-root');
+    if (!slug) {
+      root.innerHTML = '<p>No page specified.</p>';
+      return;
+    }
+    if (window.renderPageBySlug) {
+      window.renderPageBySlug(slug, root);
+    } else {
+      root.innerHTML = '<p>Loading...</p>';
+    }
+  })();
+  </script>
+</body>
+</html>
