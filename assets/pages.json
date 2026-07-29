@@ -1,0 +1,7 @@
+[
+  {
+    "slug": "about",
+    "title": "About",
+    "content": "<p>Expanded about page content can go here. You can fetch this via JavaScript and render it inside a simple page template.</p>"
+  }
+]
